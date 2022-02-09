@@ -11,8 +11,11 @@ sites:
     url: http://155.210.153.12:8080/
   - name: BootCrypto
     url: http://155.210.153.12:81/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Redmine
+    url: http://155.210.153.12:8200/
+  - name: Odoo
+    url: http://155.210.153.12:10002/
+        
 
 assignees:
   - fjvigil89
