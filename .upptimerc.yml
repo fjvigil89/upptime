@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: World Profe
-    url: https://plataformawp.es/entrar
+    url: https://plataformawp.es/
   - name: Web TuVoz
     url: http://155.210.153.12/auth/login
   - name: Api TuVoz
