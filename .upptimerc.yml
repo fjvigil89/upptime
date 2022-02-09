@@ -3,12 +3,14 @@ owner: fjvigil89 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: World Profe
+    url: https://plataformawp.es/entrar
+  - name: Web TuVoz
+    url: http://155.210.153.12/auth/login
+  - name: Api TuVoz
+    url: http://155.210.153.12:8080/
+  - name: BootCrypto
+    url: http://155.210.153.12:81/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
