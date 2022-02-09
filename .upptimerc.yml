@@ -14,7 +14,7 @@ sites:
   - name: Redmine
     url: http://155.210.153.12:8200/
   - name: Odoo
-    url: http://155.210.153.12:10002/
+    url: http://155.210.153.12:10012/
         
 
 assignees:
