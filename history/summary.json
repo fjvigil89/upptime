@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-22": 40,
+      "2022-02-22": 594,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
@@ -55,64 +55,70 @@
     "url": "http://155.210.153.12/auth/login",
     "icon": "https://favicons.githubusercontent.com/155.210.153.12",
     "slug": "web-tu-voz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 205,
     "timeDay": 221,
     "timeWeek": 187,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 2
+    }
   },
   {
     "name": "Api TuVoz",
     "url": "http://155.210.153.12:8080/",
     "icon": "https://favicons.githubusercontent.com/155.210.153.12",
     "slug": "api-tu-voz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 205,
     "timeMonth": 244,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 2
+    }
   },
   {
     "name": "BootCrypto",
     "url": "http://155.210.153.12:81/",
     "icon": "https://favicons.githubusercontent.com/155.210.153.12",
     "slug": "boot-crypto",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 345,
     "timeWeek": 295,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 1
+    }
   },
   {
     "name": "Redmine",
     "url": "http://155.210.153.12:8200/",
     "icon": "https://favicons.githubusercontent.com/155.210.153.12",
     "slug": "redmine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
@@ -120,16 +126,18 @@
     "timeWeek": 491,
     "timeMonth": 846,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 1
+    }
   },
   {
     "name": "Odoo",
     "url": "http://155.210.153.12:10012/",
     "icon": "https://favicons.githubusercontent.com/155.210.153.12",
     "slug": "odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +146,8 @@
     "timeWeek": 386,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   }
 ]
