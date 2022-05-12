@@ -15,8 +15,10 @@ sites:
     url: http://155.210.153.12:81/
   - name: Redmine
     url: http://155.210.153.12:8200/
-  - name: Odoo
-    url: http://155.210.153.12:10012/
+  - name: Odoo 12
+    url: http://ec2-3-121-171-6.eu-central-1.compute.amazonaws.com
+  - name: Odoo 14
+    url: http://ec2-3-73-13-155.eu-central-1.compute.amazonaws.com
         
 
 assignees:
