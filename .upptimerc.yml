@@ -4,21 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Ages Web
-    url: https://fjvigil89.github.io/ages_web/
-  - name: World Profe
-    url: https://plataformawp.es/
-  - name: Web TuVoz
-    url: http://155.210.153.12/auth/login
-  - name: Api TuVoz
-    url: http://155.210.153.12:8080/
-  - name: BootCrypto
-    url: http://155.210.153.12:81/
+    url: https://fjvigil89.github.io/ages_web/  
   - name: Redmine
     url: http://155.210.153.12:8200/
-  - name: Odoo 12
-    url: http://ec2-3-121-171-6.eu-central-1.compute.amazonaws.com
-  - name: Odoo 14
-    url: http://ec2-3-73-13-155.eu-central-1.compute.amazonaws.com
         
 
 assignees:
