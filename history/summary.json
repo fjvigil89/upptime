@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 124,
-    "timeWeek": 87,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "time": 106,
+    "timeDay": 4386,
+    "timeWeek": 693,
+    "timeMonth": 254,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/155.210.153.12.ico",
     "slug": "redmine",
     "status": "up",
-    "uptime": "88.99%",
+    "uptime": "89.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "96.14%",
     "time": 591,
-    "timeDay": 556,
-    "timeWeek": 440,
-    "timeMonth": 594,
+    "timeDay": 554,
+    "timeWeek": 437,
+    "timeMonth": 601,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2023-03-15": 20,
@@ -49,8 +49,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 925,
-      "2022-03-28": 415,
-      "2022-03-27": 1440
+      "2022-03-28": 415
     }
   }
 ]
