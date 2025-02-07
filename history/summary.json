@@ -22,19 +22,19 @@
     "url": "https://www.alamops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alamops.com.ico",
     "slug": "alamops",
-    "status": "down",
-    "uptime": "81.46%",
-    "uptimeDay": "81.46%",
-    "uptimeWeek": "81.46%",
-    "uptimeMonth": "81.46%",
-    "uptimeYear": "81.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.23%",
+    "uptimeDay": "1.23%",
+    "uptimeWeek": "1.23%",
+    "uptimeMonth": "1.23%",
+    "uptimeYear": "1.23%",
+    "time": 7859,
+    "timeDay": 7859,
+    "timeWeek": 7859,
+    "timeMonth": 7859,
+    "timeYear": 7859,
     "dailyMinutesDown": {
-      "2025-02-07": 0
+      "2025-02-07": 46
     }
   }
 ]
