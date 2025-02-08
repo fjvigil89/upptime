@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 62,
-    "timeWeek": 82,
+    "timeDay": 86,
+    "timeWeek": 77,
     "timeMonth": 101,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alamops.com.ico",
     "slug": "alamops",
     "status": "up",
-    "uptime": "76.70%",
-    "uptimeDay": "76.70%",
-    "uptimeWeek": "76.70%",
-    "uptimeMonth": "76.70%",
-    "uptimeYear": "76.70%",
-    "time": 4550,
-    "timeDay": 4550,
-    "timeWeek": 4550,
-    "timeMonth": 4550,
-    "timeYear": 4550,
+    "uptime": "91.77%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "91.77%",
+    "uptimeYear": "91.77%",
+    "time": 3336,
+    "timeDay": 3336,
+    "timeWeek": 3336,
+    "timeMonth": 3336,
+    "timeYear": 3336,
     "dailyMinutesDown": {
-      "2025-02-07": 59
+      "2025-02-07": 46
     }
   }
 ]
