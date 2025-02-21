@@ -8,7 +8,15 @@ sites:
   - name: Alamops
     url: https://www.alamops.com/
   - name: AWS-Alamops
-    url: http://3.64.114.185:80/    
+    url: http://3.64.114.185:80/
+  - name: Iac-dev-Alamops
+    url: https://iac-dev.alamops.com/
+  - name: Api-dev-Alamops
+    url: https://api-dev.alamops.com/    
+  - name: PVE-Alamops
+    url: https://pve.alamops.com/    
+  - name: Jenkins-Alamops
+    url: https://jenkins.alamops.com/        
         
 
 assignees:
