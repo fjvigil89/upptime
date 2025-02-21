@@ -7,6 +7,8 @@ sites:
     url: https://fjvigil89.github.io/ages_web/  
   - name: Alamops
     url: https://www.alamops.com/
+  - name: AWS-Alamops
+    url: http://3.64.114.185:80/    
         
 
 assignees:
