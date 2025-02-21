@@ -82,19 +82,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.alamops.com.ico",
     "slug": "api-dev-alamops",
     "status": "up",
-    "uptime": "5.32%",
-    "uptimeDay": "5.32%",
-    "uptimeWeek": "5.32%",
-    "uptimeMonth": "5.32%",
-    "uptimeYear": "5.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 552,
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {
-      "2025-02-21": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PVE-Alamops",
@@ -120,18 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.alamops.com.ico",
     "slug": "jenkins-alamops",
     "status": "up",
-    "uptime": "3.42%",
-    "uptimeDay": "3.42%",
-    "uptimeWeek": "3.42%",
-    "uptimeMonth": "3.42%",
-    "uptimeYear": "3.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 521,
     "timeDay": 521,
     "timeWeek": 521,
     "timeMonth": 521,
     "timeYear": 521,
-    "dailyMinutesDown": {
-      "2025-02-21": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
