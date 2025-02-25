@@ -22,18 +22,19 @@
     "url": "https://www.alamops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alamops.com.ico",
     "slug": "alamops",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.00%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
     "time": 1056,
     "timeDay": 558,
     "timeWeek": 588,
     "timeMonth": 1056,
     "timeYear": 1056,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2025-02-21": 169,
       "2025-02-20": 17,
       "2025-02-08": 269,
@@ -45,9 +46,9 @@
     "url": "http://3.64.114.185:80/",
     "icon": "https://icons.duckduckgo.com/ip3/3.64.114.185.ico",
     "slug": "aws-alamops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +57,18 @@
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "Iac-dev-Alamops",
     "url": "https://iac-dev.alamops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iac-dev.alamops.com.ico",
     "slug": "iac-dev-alamops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,16 +77,18 @@
     "timeWeek": 499,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "Api-dev-Alamops",
     "url": "https://api-dev.alamops.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.alamops.com.ico",
     "slug": "api-dev-alamops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,16 +97,18 @@
     "timeWeek": 524,
     "timeMonth": 524,
     "timeYear": 524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "PVE-Alamops",
     "url": "https://pve.alamops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pve.alamops.com.ico",
     "slug": "pve-alamops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,16 +117,18 @@
     "timeWeek": 561,
     "timeMonth": 561,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "Jenkins-Alamops",
     "url": "https://jenkins.alamops.com/login?from=%2F",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.alamops.com.ico",
     "slug": "jenkins-alamops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,6 +137,8 @@
     "timeWeek": 515,
     "timeMonth": 515,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   }
 ]
