@@ -1,7 +1,7 @@
 url: https://api-dev.alamops.com/health
 status: down
-code: 404
-responseTime: 428
-lastUpdated: 2025-03-13T23:13:36.138Z
+code: 401
+responseTime: 482
+lastUpdated: 2025-03-14T23:13:57.140Z
 startTime: 2025-02-21T10:05:21.377Z
 generator: Upptime <https://github.com/upptime/upptime>
