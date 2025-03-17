@@ -12,7 +12,7 @@ sites:
   - name: Iac-dev-Alamops
     url: https://iac-dev.alamops.com/
   - name: Api-dev-Alamops
-    url: https://api-dev.alamops.com/health   
+    url: https://api-dev.alamops.com/api/health   
   - name: PVE-Alamops
     url: https://pve.alamops.com/    
   - name: Jenkins-Alamops
