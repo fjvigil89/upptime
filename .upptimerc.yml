@@ -17,7 +17,8 @@ sites:
     url: https://pve.alamops.com/    
   - name: Jenkins-Alamops
     url: https://jenkins.alamops.com/login?from=%2F      
-        
+  - name: Grafana-Alamops
+    url: https://grafana.alamops.com/login
 
 assignees:
   - fjvigil89
