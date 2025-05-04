@@ -17,6 +17,8 @@ sites:
     url: https://jenkins.alamops.com/login?from=%2F      
   - name: Grafana-Alamops
     url: https://grafana.alamops.com/login
+  - name: Mongo-Alamops
+    url: http://mongodb.alamops.com   
 
 assignees:
   - fjvigil89
