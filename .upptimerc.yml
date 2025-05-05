@@ -18,7 +18,7 @@ sites:
   - name: Grafana-Alamops
     url: https://grafana.alamops.com/login
   - name: Mongo-Alamops
-    url: http://mongodb.alamops.com   
+    url: http://mongodb.alamops.com:27017/   
 
 assignees:
   - fjvigil89
