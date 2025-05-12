@@ -1,7 +1,7 @@
 url: https://iac-dev.alamops.com/
-status: down
-code: 502
-responseTime: 490
-lastUpdated: 2025-05-12T14:55:02.322Z
+status: up
+code: 200
+responseTime: 404
+lastUpdated: 2025-05-12T15:29:19.456Z
 startTime: 2025-02-21T10:05:20.455Z
 generator: Upptime <https://github.com/upptime/upptime>
