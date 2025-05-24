@@ -1,7 +1,7 @@
 url: http://mongodb.alamops.com:27017/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-24T12:56:15.607Z
+status: up
+code: 200
+responseTime: 267
+lastUpdated: 2025-05-24T13:31:23.933Z
 startTime: 2025-05-04T10:03:17.828Z
 generator: Upptime <https://github.com/upptime/upptime>
