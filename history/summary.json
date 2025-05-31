@@ -104,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.alamops.com.ico",
     "slug": "api-dev-alamops",
     "status": "up",
-    "uptime": "78.47%",
-    "uptimeDay": "92.40%",
+    "uptime": "78.48%",
+    "uptimeDay": "99.45%",
     "uptimeWeek": "80.01%",
     "uptimeMonth": "89.12%",
-    "uptimeYear": "78.47%",
+    "uptimeYear": "78.48%",
     "time": 836,
     "timeDay": 1296,
     "timeWeek": 1011,
@@ -202,12 +202,12 @@
     "url": "http://mongodb.alamops.com:27017/",
     "icon": "https://icons.duckduckgo.com/ip3/mongodb.alamops.com.ico",
     "slug": "mongo-alamops",
-    "status": "up",
-    "uptime": "90.89%",
-    "uptimeDay": "92.11%",
+    "status": "down",
+    "uptime": "91.11%",
+    "uptimeDay": "92.10%",
     "uptimeWeek": "91.26%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "90.89%",
+    "uptimeMonth": "91.11%",
+    "uptimeYear": "91.11%",
     "time": 255,
     "timeDay": 261,
     "timeWeek": 260,
@@ -239,7 +239,7 @@
       "2025-05-09": 58,
       "2025-05-08": 109,
       "2025-05-07": 54,
-      "2025-05-06": 158
+      "2025-05-06": 83
     }
   }
 ]
