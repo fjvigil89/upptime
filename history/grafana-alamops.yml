@@ -1,7 +1,7 @@
 url: https://grafana.alamops.com/login
-status: down
-code: 502
-responseTime: 14746
-lastUpdated: 2025-07-01T17:33:02.558Z
+status: up
+code: 200
+responseTime: 632
+lastUpdated: 2025-07-01T20:53:21.740Z
 startTime: 2025-04-03T14:03:54.114Z
 generator: Upptime <https://github.com/upptime/upptime>
