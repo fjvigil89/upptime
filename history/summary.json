@@ -74,7 +74,7 @@
     "slug": "iac-dev-alamops",
     "status": "up",
     "uptime": "98.06%",
-    "uptimeDay": "54.39%",
+    "uptimeDay": "57.73%",
     "uptimeWeek": "91.75%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "98.06%",
@@ -218,12 +218,12 @@
     "url": "http://mongodb.alamops.com:27017/",
     "icon": "https://icons.duckduckgo.com/ip3/mongodb.alamops.com.ico",
     "slug": "mongo-alamops",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "90.63%",
+    "status": "down",
+    "uptime": "96.61%",
+    "uptimeDay": "90.62%",
     "uptimeWeek": "85.47%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "96.58%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "96.61%",
     "time": 254,
     "timeDay": 257,
     "timeWeek": 253,
@@ -250,8 +250,7 @@
       "2025-06-25": 147,
       "2025-06-24": 51,
       "2025-06-23": 83,
-      "2025-06-22": 35,
-      "2025-06-21": 31
+      "2025-06-22": 35
     }
   },
   {
