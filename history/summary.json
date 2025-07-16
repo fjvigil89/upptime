@@ -219,12 +219,12 @@
     "url": "http://mongodb.alamops.com:27017/",
     "icon": "https://icons.duckduckgo.com/ip3/mongodb.alamops.com.ico",
     "slug": "mongo-alamops",
-    "status": "up",
-    "uptime": "96.75%",
-    "uptimeDay": "83.32%",
+    "status": "down",
+    "uptime": "96.78%",
+    "uptimeDay": "83.31%",
     "uptimeWeek": "85.45%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "96.75%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "96.78%",
     "time": 254,
     "timeDay": 274,
     "timeWeek": 257,
@@ -248,7 +248,7 @@
       "2025-07-02": 205,
       "2025-07-01": 278,
       "2025-06-30": 91,
-      "2025-06-29": 133
+      "2025-06-29": 99
     }
   },
   {
