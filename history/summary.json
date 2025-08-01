@@ -75,7 +75,7 @@
     "status": "up",
     "uptime": "97.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.32%",
+    "uptimeWeek": "96.20%",
     "uptimeMonth": "93.20%",
     "uptimeYear": "97.48%",
     "time": 1003,
@@ -227,9 +227,9 @@
     "slug": "mongo-alamops",
     "status": "up",
     "uptime": "97.15%",
-    "uptimeDay": "73.62%",
-    "uptimeWeek": "86.42%",
-    "uptimeMonth": "91.71%",
+    "uptimeDay": "80.63%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "97.15%",
     "time": 254,
     "timeDay": 244,
@@ -237,7 +237,7 @@
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-07-31": 378,
+      "2025-07-31": 365,
       "2025-07-30": 136,
       "2025-07-29": 191,
       "2025-07-28": 116,
@@ -256,7 +256,7 @@
       "2025-07-15": 248,
       "2025-07-14": 129,
       "2025-07-13": 230,
-      "2025-07-12": 94
+      "2025-07-12": 115
     }
   },
   {
@@ -265,11 +265,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iris-dev.alamops.com.ico",
     "slug": "iris-alamops",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "95.03%",
+    "uptimeYear": "95.04%",
     "time": 512,
     "timeDay": 408,
     "timeWeek": 463,
