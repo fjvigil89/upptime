@@ -240,14 +240,14 @@
     "url": "http://mongodb.alamops.com:27017/",
     "icon": "https://icons.duckduckgo.com/ip3/mongodb.alamops.com.ico",
     "slug": "mongo-alamops",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "84.12%",
-    "uptimeMonth": "87.71%",
-    "uptimeYear": "96.54%",
+    "status": "down",
+    "uptime": "96.56%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "84.35%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "96.56%",
     "time": 256,
-    "timeDay": 266,
+    "timeDay": 256,
     "timeWeek": 267,
     "timeMonth": 263,
     "timeYear": 256,
@@ -272,7 +272,7 @@
       "2025-08-03": 131,
       "2025-08-02": 212,
       "2025-08-01": 101,
-      "2025-07-31": 114
+      "2025-07-31": 95
     }
   },
   {
@@ -281,16 +281,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/iris-dev.alamops.com.ico",
     "slug": "iris-alamops",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "94.72%",
     "time": 662,
     "timeDay": 512,
     "timeWeek": 504,
     "timeMonth": 881,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 782,
+      "2025-08-10": 638,
+      "2025-08-08": 341,
+      "2025-07-01": 200,
+      "2025-06-09": 865,
+      "2025-06-08": 1440,
+      "2025-06-07": 1440,
+      "2025-06-06": 228,
+      "2025-06-03": 18
+    }
   }
 ]
