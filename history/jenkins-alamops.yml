@@ -1,7 +1,7 @@
 url: https://jenkins.alamops.com/login?from=%2F
-status: down
-code: 502
-responseTime: 3552
-lastUpdated: 2025-08-24T14:00:26.888Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2025-08-24T14:25:39.143Z
 startTime: 2025-02-21T10:05:25.969Z
 generator: Upptime <https://github.com/upptime/upptime>
