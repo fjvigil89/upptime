@@ -1,7 +1,7 @@
 url: https://api-dev.alamops.com/api/health
-status: up
-code: 200
-responseTime: 1247
-lastUpdated: 2025-08-27T13:36:52.582Z
+status: down
+code: 401
+responseTime: 615
+lastUpdated: 2025-08-27T15:36:42.335Z
 startTime: 2025-02-21T10:05:21.377Z
 generator: Upptime <https://github.com/upptime/upptime>
