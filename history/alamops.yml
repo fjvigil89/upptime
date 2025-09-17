@@ -1,7 +1,7 @@
 url: https://www.alamops.com/
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2025-09-16T23:11:09.334Z
+status: down
+code: 502
+responseTime: 525
+lastUpdated: 2025-09-17T12:54:36.130Z
 startTime: 2025-02-07T15:42:29.515Z
 generator: Upptime <https://github.com/upptime/upptime>
