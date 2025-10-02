@@ -1,7 +1,7 @@
 url: https://iris.alamops.com
-status: down
-code: 503
-responseTime: 398
-lastUpdated: 2025-10-02T15:26:03.354Z
+status: up
+code: 200
+responseTime: 343
+lastUpdated: 2025-10-02T18:47:20.719Z
 startTime: 2025-06-03T10:10:03.382Z
 generator: Upptime <https://github.com/upptime/upptime>
