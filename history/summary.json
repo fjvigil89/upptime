@@ -24,10 +24,10 @@
     "slug": "alamops",
     "status": "down",
     "uptime": "88.75%",
-    "uptimeDay": "92.79%",
+    "uptimeDay": "90.39%",
     "uptimeWeek": "58.02%",
-    "uptimeMonth": "49.46%",
-    "uptimeYear": "83.52%",
+    "uptimeMonth": "49.38%",
+    "uptimeYear": "83.51%",
     "time": 2194,
     "timeDay": 4984,
     "timeWeek": 5754,
@@ -137,7 +137,7 @@
       "2026-08-19": 470,
       "2026-08-18": 1440,
       "2026-08-20": 62,
-      "2026-08-22": 104
+      "2026-08-22": 138
     }
   },
   {
@@ -284,7 +284,7 @@
       "2025-08-29": 380,
       "2025-08-28": 40,
       "2025-08-30": 648,
-      "2026-08-22": 1264,
+      "2026-08-22": 1298,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -715,16 +715,16 @@
     "url": "https://iris.alamops.com",
     "icon": "https://icons.duckduckgo.com/ip3/iris.alamops.com.ico",
     "slug": "iris-alamops",
-    "status": "down",
-    "uptime": "86.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "85.20%",
+    "status": "up",
+    "uptime": "86.94%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "85.19%",
     "time": 513,
-    "timeDay": 425,
-    "timeWeek": 457,
-    "timeMonth": 460,
+    "timeDay": 456,
+    "timeWeek": 464,
+    "timeMonth": 462,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2025-08-24": 25,
@@ -794,7 +794,7 @@
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 491,
-      "2026-08-22": 0
+      "2026-08-22": 35
     }
   }
 ]
